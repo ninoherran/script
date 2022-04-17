@@ -1,7 +1,7 @@
 #!/bin/bash
 
 user=root
-server=164.90.192.28
+server=165.232.92.149
 path_to_ssh_key=~/.ssh/ninoherran.studio
 deploy_dir=/root/pandora_api
 
