@@ -1,0 +1,1 @@
+CREATE USER testuser NOCREATEDB PASSWORD 'test';
